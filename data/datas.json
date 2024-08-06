@@ -1,0 +1,47 @@
+[
+    {
+        "username": "Jasur",
+        "gmail": "ahmedovj76866@gmail.com",
+        "age": 23,
+        "gender": "Male",
+        "message": "Salom",
+        "time": "2024.08.06 19.09",
+        "is_active": false
+    },
+    {
+        "username": "Diyor",
+        "gmail": "dmuxiddinov594@gmail.com",
+        "age": 16,
+        "gender": "Male",
+        "message": "Salom",
+        "time": "2024.08.06 19.09",
+        "is_active": false
+    },
+    {
+        "username": "Otabek",
+        "gmail": "qarshiboyevl71@gmail.com",
+        "age": 27,
+        "gender": "Male",
+        "message": "Salom",
+        "time": "2024.08.06 19.09",
+        "is_active": true
+    },
+    {
+        "username": "Nodira",
+        "gmail": "ahmedovj7686@gmail.com",
+        "age": 17,
+        "gender": "Female",
+        "message": "Salom",
+        "time": "2024.08.06 19.09",
+        "is_active": false
+    },
+    {
+        "username": "Nodira",
+        "gmail": "ahmedovj7686@gmail.com",
+        "age": 17,
+        "gender": "Female",
+        "message": "qalaysan",
+        "time": "2024.08.06 19.09",
+        "is_active": false
+    }
+]

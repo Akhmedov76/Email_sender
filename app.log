@@ -1,0 +1,5 @@
+2024-08-06 21:05:50 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-06 21:06:04 - INFO - function: login args: () kwargs: {}, result: {'user_type': 'user'}
+2024-08-06 21:08:05 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-06 21:10:42 - INFO - function: login args: () kwargs: {}, result: False
+2024-08-06 21:16:17 - INFO - function: register args: () kwargs: {}, result: True

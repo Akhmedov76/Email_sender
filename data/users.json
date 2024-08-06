@@ -1,0 +1,52 @@
+[
+    {
+        "full_name": "Ahmedov Jasur",
+        "username": "Jasur",
+        "gmail": "ahmedovj76866@gmail.com",
+        "password": "a8e0c3c8e84f48cbe3b1520723cbf713dfeeb69aa092a988a788af51150bbe25",
+        "age": 23,
+        "gender": "Male",
+        "date": "2024-08-05 20:39:52.046867",
+        "is_login": false
+    },
+    {
+        "full_name": "Diyorchik",
+        "username": "Diyor",
+        "gmail": "dmuxiddinov594@gmail.com",
+        "password": "a8e0c3c8e84f48cbe3b1520723cbf713dfeeb69aa092a988a788af51150bbe25",
+        "age": 16,
+        "gender": "Male",
+        "date": "2024-08-06 09:07:25.778181",
+        "is_login": false
+    },
+    {
+        "full_name": "Otabek Mahkamov",
+        "username": "Otabek",
+        "gmail": "qarshiboyevl71@gmail.com",
+        "password": "a8e0c3c8e84f48cbe3b1520723cbf713dfeeb69aa092a988a788af51150bbe25",
+        "age": 27,
+        "gender": "Male",
+        "date": "2024-08-06 10:49:54.941067",
+        "is_login": false
+    },
+    {
+        "full_name": "Nodira Begimqulova",
+        "username": "Nodira",
+        "gmail": "ahmedovj7686@gmail.com",
+        "password": "a8e0c3c8e84f48cbe3b1520723cbf713dfeeb69aa092a988a788af51150bbe25",
+        "age": 17,
+        "gender": "Female",
+        "date": "2024-08-06 11:49:12.350812",
+        "is_login": false
+    },
+    {
+        "full_name": "Nursulton Ahmadov",
+        "username": "Nursulton",
+        "gmail": "nursultonahmadov65@gmail.com",
+        "password": "a8e0c3c8e84f48cbe3b1520723cbf713dfeeb69aa092a988a788af51150bbe25",
+        "age": 27,
+        "gender": "Male",
+        "date": "2024-08-06 21:16:17.187048",
+        "is_login": false
+    }
+]
